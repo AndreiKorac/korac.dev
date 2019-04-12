@@ -1,0 +1,4 @@
+baseURL = "https://andrei.korac.dev/"
+languageCode = "en-us"
+title = "Andrei Korac"
+theme="ananke"
