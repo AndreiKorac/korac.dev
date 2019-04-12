@@ -6,4 +6,11 @@ draft: false
 
 Hello World! This site is finally up and running.
 
-This post post has been modified to see if CodeBuild successfully rebuilds the site.
+
+It's a Hugo generated static site served using S3 and CloudFront with a CodeBuild webhook rebuilding the site when I push changes to the Github repo.
+
+
+With exams starting within a week I thought it'd be smart to spend a couple of days bashing my head against AWS in an attempt to learn how to do all that instead of studying so I can graduate this spring.
+
+
+Oh well, it was a great learning experience in any case.
