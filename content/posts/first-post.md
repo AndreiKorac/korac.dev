@@ -6,4 +6,4 @@ draft: false
 
 Hello World! This site is finally up and running.
 
-This post post has been modified to test CodeBuild.
+This post post has been modified to see if CodeBuild successfully rebuilds the site.
