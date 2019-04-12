@@ -22,4 +22,4 @@ phases:
     commands:
       - tree public
       - aws s3 sync public s3://andrei.korac.dev
-- aws cloudfront create-invalidation --distribution-id $CDN_DISTRO_ID --paths "/*"
+      - aws cloudfront create-invalidation --distribution-id $CDN_DISTRO_ID --paths "/*"
