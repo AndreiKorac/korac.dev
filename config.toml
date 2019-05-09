@@ -2,16 +2,19 @@ baseURL = "https://andrei.korac.dev/"
 languageCode = "en-us"
 title = "Andrei Korac"
 theme="gohugo-theme-ananke"
+toc = true
 
-[[menu.main]]
-    name = "Home"
-    url = "/"
+[menu]
 
-[[menu.main]]
-    name = "Posts"
-    url = "/posts"
+    [[menu.main]]
+        name = "Home"
+        url = "/"
+        weight = 1
 
+    [[menu.main]]
+        name = "Posts"
+        url = "/posts/"
 
 [params]
-github = "https://github.com/andreikorac"
-linkedin = "https://www.linkedin.com/in/andrei-korac/"
+    github = "https://github.com/andreikorac"
+    linkedin = "https://www.linkedin.com/in/andrei-korac/"
