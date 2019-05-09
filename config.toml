@@ -1,7 +1,7 @@
 baseURL = "https://andrei.korac.dev/"
 languageCode = "en-us"
 title = "Andrei Korac"
-theme="gohugo-theme-ananke"
+theme="hugo-theme-ananke-modified"
 toc = true
 
 [menu]
