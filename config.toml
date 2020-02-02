@@ -9,7 +9,12 @@ toc = true
     [[menu.main]]
         name = "Home"
         url = "/"
-        weight = 1
+        weight = 2
+
+    [[menu.main]]
+        name ="About"
+        url = "/about"
+        weight = 0
 
     [[menu.main]]
         name = "Posts"
@@ -18,3 +23,4 @@ toc = true
 [params]
     github = "https://github.com/andreikorac"
     linkedin = "https://www.linkedin.com/in/andrei-korac/"
+    custom_css = ["custom.css"]

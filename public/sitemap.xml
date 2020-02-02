@@ -1,6 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://andrei.korac.dev/about/</loc>
+    <lastmod>2019-05-07T22:09:35-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrei.korac.dev/</loc>
+    <lastmod>2019-05-07T22:09:35-04:00</lastmod>
+  </url>
   
   <url>
     <loc>https://andrei.korac.dev/posts/first-post/</loc>
@@ -8,25 +18,16 @@
   </url>
   
   <url>
-    <loc>https://andrei.korac.dev/</loc>
+    <loc>https://andrei.korac.dev/posts/</loc>
     <lastmod>2019-04-11T20:16:06-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://andrei.korac.dev/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://andrei.korac.dev/posts/</loc>
-    <lastmod>2019-04-11T20:16:06-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://andrei.korac.dev/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
